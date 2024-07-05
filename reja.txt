@@ -1,0 +1,6 @@
+template base
+Manager
+Slug
+Custom User
+Login / Register
+
